@@ -6,6 +6,9 @@ Lightshow is an app created by [[User:Derf]] that allows you to test the individ
 ## Usage
 
 Hold the Left Stick in the direction of the LED you'd like to modify and press a button to change the color to green, yellow, red, or off.
+
 Press Start to toggle the center LED on or off.
+
+If all ROL LEDs are set to off, the system will turn Player 1's LED to green. This is a feature of the system, and cannot be overridden by the app.
 
 ![](./Lightshow_Demo.gif)
