@@ -7,4 +7,4 @@ Lightshow is an app created by [[User:Derf]] that allows you to test the individ
 
 Hold the Left Stick in the direction of the LED you'd like to modify and press a button to change the color to green, yellow, red, or off.
 
-![](https://consolemods.org/wiki/images/3/39/Lightshow_Demo.gif)
+![](./Lightshow_Demo.gif)
