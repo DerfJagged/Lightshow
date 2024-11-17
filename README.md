@@ -1,5 +1,7 @@
 # Lightshow
-Lightshow is an app created by [[User:Derf]] that allows you to test the individual LEDs on your Xbox 360's Ring of Light (ROL) as well as the center power LED.
+Lightshow is an app that allows you to test the individual LEDs on your Xbox 360's Ring of Light (ROL) as well as the center power LED.
+
+Credit to landaire for [smc.h](https://github.com/landaire/LaunchCode/blob/master/LaunchCode/smc.h) and [smc.cpp](https://github.com/landaire/LaunchCode/blob/master/LaunchCode/smc.cpp).
 
 <img src="https://consolemods.org/wiki/images/5/58/Lightshow_Picture.png" width="49%" height="auto">
 
