@@ -1,4 +1,4 @@
-//IIRC this should be right and work, call as SetLEDS(Color1,Color2,Color3,Color4);
+//IIRC this should be right and work, call as SetLEDs(Color1,Color2,Color3,Color4);
 
 //Thanks to www.free60.org/SMC for helping me get front LEDs right
 #pragma once
@@ -89,7 +89,8 @@ typedef enum _AV_PACK {
 extern "C" void __stdcall HalSendSMCMessage(void* input, void* output);
 
         void SetPowerLED(unsigned char command, bool animate);
-        void SetLEDS();
+		void SetSolidRing(LEDState color);
+        void SetLEDs();
 		void SetFanSpeed(int fan, int speed);
 		void Shutdown();
         float GetTemperature(TEMP_INDEX sTempIndex, bool Celsius);
